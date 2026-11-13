@@ -1,2 +1,1 @@
-
-   
+<img src="./banner.svg" width="100%" alt="A pixel-art sea chart of a language archipelago: each island is a programming language, sized by its share of my public code. A small sailing boat follows a dotted course between them.">
